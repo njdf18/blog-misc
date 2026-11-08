@@ -17,7 +17,7 @@ img: ":about.jpg"
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2022-03-03 12:32:00 +0000
+meta_modify_date: 2026-11-30 12:00:00 +0800
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
@@ -39,6 +39,19 @@ img: ":about.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+Game Engines that I use (Sort by familarity):
+- Unity Engine
+- Godot Engine
+- RPG Maker MV/MZ
 
-{{ website_info_text_second }}
+Programming Languages that I know (Sort by familarity):
+- C#
+- C/C++
+- Java
+- HTML / JavaScript
+
+Languages that I know (Sort by familarity):
+- Taiwanese Mandarin (Native)
+- Japanese (C1, N1 Passed)
+- English (B2)
+- Taiwanese Hokkien (A2)

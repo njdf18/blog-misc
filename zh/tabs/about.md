@@ -17,7 +17,7 @@ img: ":about.jpg"
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2022-03-03 12:32:00 +0000
+meta_modify_date: 2026-11-30 12:00:00 +0800
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
@@ -39,6 +39,19 @@ img: ":about.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+我會用的遊戲引擎（依熟悉度排序）:
+- Unity Engine
+- Godot Engine
+- RPG Maker MV/MZ
 
-{{ website_info_text_second }}
+我會用的程式語言（依熟悉度排序）:
+- C#
+- C/C++
+- Java
+- HTML / JavaScript
+
+我會說的語言（依熟悉度排序）:
+- 台灣華語
+- 日本語
+- 英語
+- 台語
