@@ -50,6 +50,6 @@ As stated in the title.
 <!-- outline-end -->
 
 I know it is super easy to make and host a personal website in this AI fuxking era. I still did it with Github Pages and AI only helping me navigating the codebase of the template.<br>
-I am proud of myself and my hands-on ability.<br><br>
+I am proud of myself and my hands-on ability.<br>
 
 Have a nice day for anyone read until here!
