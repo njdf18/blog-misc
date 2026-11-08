@@ -39,7 +39,6 @@ meta_modify_date: 2026-11-30 12:00:00 +0800
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
-***～ 四カ国語が話せる台湾の大学生 ～***
 
 使いこなしているゲームエンジン（習熟度順）:
 - Unity Engine
