@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "你的站点名称"
+brand: "James No.18's Blog"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: "延畢大五生、隨意遊戲開發"
 
 # used for seo meta post author (if it's not defined in post)
-name: "你的名字"
+name: "James No.18"
 
 # home page top header texts
 home:

@@ -4,19 +4,19 @@
 # Licensed under MIT
 
 lng:
-  name: 简体中文
+  name: 繁體中文
   # based on ISO_639-1 https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
   code: zh
   # specifically needed for open-graph meta og:locale. if open_graph or html_lng_with_country_code not enabled in _data/conf/main.yml, it's not necessary.
   # For html tags, you can enable or disable using html_lng_with_country_code defined in _data/conf/main.yml
   # based on ISO_3166-1 https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
-  country: CN
-  switch_title: Cn
+  country: TW
+  switch_title: zhTW
   offer:
-    title: 语言
-    msg_page: 显示简体中文页面
+    title: 語言
+    msg_page: 顯示繁體中文頁面
     # if page translation is not available, use this.
-    msg_site: 简体中文页面
+    msg_site: 繁體中文頁面
 
 date:
   # if %b is used in the long format, it will be replaced with the corresponding item in 'months' list below.
@@ -27,38 +27,38 @@ date:
   months: [1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月]
 
 not_found:
-  header: 未找到页面
-  line1: 找不到您请求的页面。
-  line2: 尝试菜单或网站搜索（如果可用）。
+  header: 未找到頁面
+  line1: 無法找到所請求的頁面。
+  line2: 請確認網址是否正確或是利用本網頁的搜尋功能。
 
-no_translation_tooltip: 无翻译
+no_translation_tooltip: 未翻譯
 
 navigation:
-  contact_header: 联系方式
-  side_navigation_button: 侧边菜单
-  scroll_back_to_top: 返回顶部
+  contact_header: 聯絡方式
+  side_navigation_button: 側邊選單
+  scroll_back_to_top: 返回頁首
 
-color_scheme_switch_tooltip: 颜色方案
+color_scheme_switch_tooltip: 佈景主題
 
 search:
-  placeholder: 搜索
-  noResultText: 没有找到任何结果。
+  placeholder: 查詢
+  noResultText: 沒有找到任何結果。
 
 image_viewer:
-  load_error: 该图像无法加载。
+  load_error: 無法載入圖片。
 
 copyright:
-  additional_text: " 保留所有权利。"
+  additional_text: " 保留所有權利。"
 
 creative_commons:
-  some_rights_reserved: 保留部分权利。
+  some_rights_reserved: 保留部分權利。
   # check _data/owner/[language].yml for license type.
-  by: 除非另有说明，本网站的内容是以知识共享署名4.0国际许可协议授权的。
-  by-nd: 除非另有说明，本网站上的内容采用知识共享署名-无衍生品4.0国际许可协议进行许可。
-  by-sa: 除非另有说明，本网站的内容采用知识共享署名-相同方式共享4.0国际许可协议进行许可。
-  by-nc: 除非另有说明，本网站的内容采用知识共享署名-非商业性4.0国际许可协议进行许可。
-  by-nc-nd: 除非另有说明，本网站的内容采用知识共享署名-非商业性-非衍生品4.0国际许可协议进行许可。
-  by-nc-sa: 除非另有说明，本网站的内容采用知识共享署名-非商业性-相同方式共享4.0国际许可协议进行许可。
+  by: 除非另有說明，本網站內容採用知識共享署名4.0國際授權條款。
+  by-nd: 除非另有說明，本網站內容採用知識共享署名-禁止改作4.0國際授權條款。
+  by-sa: 除非另有說明，本網站內容採用知識共享署名-相同方式分享4.0國際授權條款。
+  by-nc: 除非另有說明，本網站內容採用知識共享署名-非商業性4.0國際授權條款。
+  by-nc-nd: 除非另有說明，本網站內容採用知識共享署名-非商業性-禁止改作4.0國際授權條款。
+  by-nc-sa: 除非另有說明，本網站內容採用知識共享署名-非商業性-相同方式分享4.0國際授權條款。
 
 # for 404 layout
 not-found:
@@ -67,173 +67,173 @@ not-found:
 # for post layout
 post:
   read_time:
-    unit: " 分钟"
-    text: " 阅读"
+    unit: " 分鐘"
+    text: " 閱讀時間"
     # c for char w for word
     word_char: w
     # char or words per minute
     per_minute: 200
   pager_buttons:
-    older_post: "← 旧帖子"
-    newer_post: "新帖子 →"
+    older_post: "← 舊貼文"
+    newer_post: "新貼文 →"
     first_post: 最前面
-    last_post: 末尾
+    last_post: 最末端
   comments:
-    noscript: 请启用JavaScript以查看评论。
+    noscript: 請啟用JavaScript以查看留言。
     disqus:
-      count_title: 评论
-      click_to_load: "加载评论"
+      count_title: 留言
+      click_to_load: "載入留言"
       consent:
-        title: 评论 (Disqus.com)
+        title: 留言 (Disqus.com)
         text: >
-          评论功能由第三方托管。通过显示外部内容，您接受disqus.com的$terms和$privacy_policy。
-          <br>如果您希望退出定向广告，请打开$settings_link，然后单击“退出”按钮并关闭。返回此处并加载注释。
-        terms_link_text: 服务条款
-        privacy_link_text: 隐私政策
-        settings_link_text: 此链接
+          留言功能由第三方代管。透過顯示外部內容，您即接受 disqus.com 的 $terms 和 $privacy_policy。
+          <br>若您希望退出個人化廣告，請開啟 $settings_link，然後按一下「退出」按鈕並關閉。返回此處並載入留言。
+        terms_link_text: 服務條款
+        privacy_link_text: 隱私權政策
+        settings_link_text: 此連結
         button:
-          load_once: 仅显示此时间
-          load_and_do_not_ask_again: 始终显示
+          load_once: 僅顯示這次
+          load_and_do_not_ask_again: 始終顯示
   table_of_contents:
     heading: 目录
     tooltip:
-      move: 拖动移动
-      close: 关闭
+      move: 拖曳移動
+      close: 關閉
   share:
-    heading: 分享到
-    link_copied: 链接已复制!
+    heading: 分享至
+    link_copied: 連結已複製!
     tooltip:
       # keys need to match with _data/share.yml
       twitter: Twitter
       facebook: Facebook
       telegram: Telegram
       linkedin: LinkedIn
-      email: 电子邮件
-      copy_link: 复制链接
+      email: 電子郵件
+      copy_link: 複製連結
 
 # for post-list layout
 post-list:
-  title: 博客
-  button_name: 博客
+  title: 部落格
+  button_name: 部落格
   upside_down_tabs:
     tab:
       all: All
-      categories: 分类
-      tags: 标签
+      categories: 類別
+      tags: 標籤
       years: 年
       clear: 清除
-      close: 关闭
+      close: 關閉
       tooltip:
         clear: 清除
-        close: 关闭
+        close: 關閉
     msg:
       property_list:
         # keys need to match with /query/post-query.json
-        tags: 标签
-        category: 类别
+        tags: 標籤
+        category: 類別
         year: 年
       # you can use these wildcards, {property} {value} {thumb}
       resultFoundTitleFormat: "{property} : {thumb}"
 
 # for home layout
 home:
-  title: 欢迎
-  button_name: 首页
+  title: 歡迎
+  button_name: 首頁
   new_posts_title: 新文章
-  new_posts_show_more_button: 阅读更多信息 …
+  new_posts_show_more_button: 閱讀更多內容...
 
 # for archives layout
 archives:
-  title: 归档
-  button_name: 归档
-  page_header: 归档
+  title: 封存
+  button_name: 封存
+  page_header: 封存
 
 # for about layout
 about:
-  title: 关于
-  button_name: 关于
-  email_title: 电子邮件
+  title: 關於我
+  button_name: 關於我
+  email_title: 電子郵件
 
 # for links layout
 links:
-  title: 链接
-  button_name: 链接
-  link_text: 网站
-  info_text: 信息
+  title: 連結
+  button_name: 連結
+  link_text: 網站
+  info_text: 說明
 
 # for projects layout
 projects:
-  title: 项目
-  button_name: 项目
-  read_more_text: 阅读更多信息
-  read_less_text: 阅读较少信息
+  title: 專案
+  button_name: 專案
+  read_more_text: 閱讀更多內容
+  read_less_text: 閱讀較少內容
 
 # for privacy-policy layout
 privacy-policy:
-  title: &privacy_policy_title 隐私政策
+  title: &privacy_policy_title 隱私權政策
 
 # constants to be replaced for
 constants:
   greetings: 你好
-  welcome: 欢迎
-  sample: 样本
+  welcome: 歡迎
+  sample: 範例
 
 # for contact form
 contact_form:
-  button_name: 联系方式
-  formLoadingText: 正在加载联系方式。。。
+  button_name: 聯絡表單
+  formLoadingText: 正在載入聯絡表單...
 
 # for cookie consent
 cookie_consent:
   privacy_policy_link_text: *privacy_policy_title
-  side_nav_setting_button_tooltip: &cookie_settings Cookie 设置
+  side_nav_setting_button_tooltip: &cookie_settings Cookie 設定
   panel_bar:
     msg: >
-      本网站使用cookie优化网站功能。
-      它将在你的批准下被激活。
-    privacy_msg: 检查 $privacy_link。
+      本網站使用 Cookie 最佳化網站功能。
+      獲得您的同意下後將會啟用。
+    privacy_msg: 查看 $privacy_link。
     buttons:
-      accept: &accept_button 允许所有
-      settings: 自定义
-      deny: &deny_button 拒绝
-      close: 关闭
+      accept: &accept_button 全部允許
+      settings: 自訂
+      deny: &deny_button 拒絕
+      close: 關閉
   panel_settings:
     title: *cookie_settings
     msg: >
-      本网站使用cookie优化网站功能。
-      它将在您的批准下激活。请单击下面的每个项目以了解cookie策略。
-    privacy_msg: 检查 $privacy_link。
+      本網站使用 Cookie 最佳化網站功能。
+      獲得您的同意下後將會啟用。請點擊下方的各個項目以瞭解 Cookie 政策。
+    privacy_msg: 查看 $privacy_link。
     buttons:
       accept: *accept_button
-      save: 允许选择
+      save: 允許選取項目
       deny: *deny_button
-    always_active: 始终处于启动状态
+    always_active: 一律啟用
     consent_types:
       necessary:
-        title: 完全意义上的必要cookies
+        title: 絕對必要的 Cookie
         info: >
-          这些cookies是网站功能所必需的，不能被禁用。
-          它们通常在网站功能如颜色方案等改变时被设置。
-          这些cookies不存储任何个人可识别信息。
+          這些 Cookie 是網站功能所必需的，無法停用。
+          這些 Cookie 不會儲存任何可識別個人身分的資訊。
+          它們通常會在網站功能（例如佈景主題）變更時設定。
           $gtag_info
       analytics:
-        title: 性能类 、cookies #Performance and analytics cookies
+        title: 效能與分析 Cookie #Performance and analytics cookies
         info: $gtag_info
       preferences:
-        title: 功能类cookies
+        title: 功能 Cookie
         info: $gtag_info
       advertising:
-        title: 定位和广告cookies
+        title: 定位與廣告 Cookie
         info: $gtag_info
     gtag_info:
       # from https://support.google.com/tagmanager/answer/10718549#consent-types
       ad_storage: >
-        启用与广告相关的存储（例如 Cookie）。
+        啟用與廣告相關的儲存空間（例如 Cookie）。
       analytics_storage: >
-        启用与分析（例如访问持续时间）相关的存储（例如 Cookie）。
+        啟用與分析（例如造訪時間長度）相關的儲存空間（例如 Cookie）。
       functionality_storage: >
-        启用可为网站或应用的功能（例如语言设置）提供支持的存储。
+        啟用可支援網站或應用程式功能（例如語言設定）的儲存空間。
       personalization_storage: >
-        启用与个性化（例如视频推荐）相关的存储。
+        啟用與個人化（例如影片推薦）相關的儲存空間。
       security_storage: >
-        启用与安全性（例如，身份验证功能、欺诈防范功能和其他用户保护功能）相关的存储。
+        啟用與安全性（例如驗證功能、防範詐騙功能及其他使用者保護功能）相關的儲存空間。

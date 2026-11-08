@@ -27,17 +27,17 @@ date:
 
 not_found:
   header: ページが見つかりませんでした。
-  line1: リクエストされたページが見つかりませんでした。
-  line2: メニューを試すか、利用可能な場合はサイト検索を試してください。
+  line1: お探しのページが見つかりませんでした。
+  line2: メニューから探すか、このサイトの検索機能を試してください。
 
-no_translation_tooltip: 訳がありません
+no_translation_tooltip: 翻訳がありません
 
 navigation:
   contact_header: コンタクト
   side_navigation_button: サイドメニュー
   scroll_back_to_top: トップへ戻る
 
-color_scheme_switch_tooltip: 配色
+color_scheme_switch_tooltip: テーマ
 
 search:
   placeholder: 検索
@@ -149,8 +149,8 @@ archives:
 
 # for about layout
 about:
-  title: 私について
-  button_name: 私について
+  title: プロフィール
+  button_name: プロフィール
   email_title: メール
 
 # for links layout
