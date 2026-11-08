@@ -144,9 +144,9 @@ home:
 
 # for archives layout
 archives:
-  title: 封存
-  button_name: 封存
-  page_header: 封存
+  title: 時間線
+  button_name: 時間線
+  page_header: 時間線
 
 # for about layout
 about:
