@@ -46,14 +46,15 @@
 .project-container .project-img img {
   border-radius: 10px;
   min-height: 140px;
-  min-width: 140px;
+  min-width: 180px;
   max-height: 140px;
-  max-width: 140px;
-  object-fit: cover;
+  max-width: 180px;
+  object-fit: fill;
 }
 
 .project-container .project-header > h1 {
   margin-top: 10px;
+  font-size: 2.4rem;
 }
 
 .project-container .project-header > h2 {
