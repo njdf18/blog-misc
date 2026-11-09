@@ -25,7 +25,7 @@ page_data:
   list:
     # example
     - type: id_fan_games
-      project_name: "<a href='https://njdf18.itch.io/cpmosr-ma'>屍體派對：天神小學心之印 - 追想</a>"
+      project_name: "<a href='https://njdf18.itch.io/cpmosr-ma' target='_blank'>屍體派對：天神小學心之印 - 追想</a>"
       project_excerpt: "關於世以子的弟弟──筱原悠和朋友們，在天神小學發生的故事。"
       img: ":cpmosr/front_cover.jpg"
       img_title: "遊戲封面"

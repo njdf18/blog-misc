@@ -24,7 +24,7 @@ page_data:
 
   list:
     - type: id_fan_games
-      project_name: "<a href='https://njdf18.itch.io/cpmosr-ma'>Corpse Party: The Mark of Soul - Recollection</a>" 
+      project_name: "<a href='https://njdf18.itch.io/cpmosr-ma' target='_blank'>Corpse Party: The Mark of Soul - Recollection</a>" 
       project_excerpt: "a fan game spin-off from Corpse Party: BloodCovered Repeated fear"
       img: ":cpmosr/front_cover.jpg"
       img_title: "Game Cover"
