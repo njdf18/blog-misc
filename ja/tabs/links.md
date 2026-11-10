@@ -42,53 +42,32 @@ lng_pair: id_links
 page_data:
   main:
     header: "リンク"
-    info: "リンクページの説明はこちら。"
+    info: "私に関係する色んなリンク。"
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
-      type: id_jekyiiliquid
-      color: "gray"
-    - title: "Webデザイン"
-      type: id_webdesign
-      color: "#F4A273"
-    - title: "プログラミング"
+    - title: "公式サイト"
+      type: id_official_links
+      color: "#f47373"
+    - title: "ゲーム開発関連"
+      type: id_gamedev_links
+      color: "#f4da73"
+    - title: "プログラミング関連"
       type: id_programming
       color: "#62b462"
+    - title: "その他"
+      type: id_other_links
+      color: "#73cdf4"
 
   list:
-    -
-    # programming
-    - type: id_programming
-      title: "Stack OverFlow"
-      url: "https://stackoverflow.com/"
-      info: "Stack Overflowは、プロや熱狂的なプログラマー向けの質疑応答Webサイトです。"
-
-    # jekyiiliquid
-    - type: id_jekyiiliquid
-      title: "Jekyll"
-      url: "https://jekyllrb.com/"
-      info: "プレーンテキストを静的なWebサイトやブログに変換します。"
-    - type: id_jekyiiliquid
-      title: "Jekyllチートシート"
-      url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
-      info: "覚えておくべきJekyll変数とフィルターは非常に多く、すべてを頭の中に入れておくのは難しい場合があります。 このチートシートは、Jekyllが実行できるすべてのことのクイックリファレンスとして使えます。"
-    - type: id_jekyiiliquid
-      title: "デザイナー向けLiquid"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
-      info: "デザイナー向けLiquid用GitHub wiki"
-    - type: id_jekyiiliquid
-      title: "プログラマー向けLiquid"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
-      info: "プログラマー向けLiquid用GitHub wiki"
-    - type: id_jekyiiliquid
-      title: "Liquidリファレンス"
-      url: "https://shopify.dev/api/liquid/"
-      info: "Liquidは、Shopifyによって作成され、Rubyで記述されたテンプレート言語です。 GitHubでオープンソースプロジェクトとして利用できるようになりました。"
-
-    # webdesign
-    - type: id_webdesign
-      title: "W3Schools"
-      url: "https://www.w3schools.com/"
-      info: "W3Schoolsは、Webのすべての主要言語で、無料のオンラインチュートリアル、リファレンス、および演習を提供しています。 HTML、CSS、JavaScript、Python、SQL、Javaなどの人気のあるテーマをカバーしています。"
+    # Github
+    - type: id_official_links
+      title: "Github"
+      url: "https://github.com/njdf18"
+      info: "私のGithubレポジトリーページ。"
+    # Itch
+    - type: id_official_links
+      title: "Itch.io"
+      url: "https://njdf18.itch.io/"
+      info: "私のItch.ioページ。ゲームをひとつだけ公開してます。"
 ---
