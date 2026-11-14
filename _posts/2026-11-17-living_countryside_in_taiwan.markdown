@@ -9,7 +9,7 @@ title: Living in the countryside in Taiwan is like living in a developing countr
 # multiple category is not supported
 category: Life
 # multiple tag entries are possible
-tags: [Personal Thoughts]
+tags: [Personal Thoughts, Traffic, Taiwan]
 # thumbnail image for post
 img: ":post_pic1.jpg"
 # disable comments on this page
@@ -36,7 +36,7 @@ date: 2026-11-17 21:10:00 +0800
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+published: true
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}

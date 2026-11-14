@@ -11,7 +11,7 @@ category: Life
 # multiple tag entries are possible
 tags: [AI, Tech, Personal Thoughts]
 # thumbnail image for post
-img: ":post_pic1.jpg"
+img: ":id_20261114_1-ai_computer_sousa_robot.png"
 # disable comments on this page
 comments_disable: true
 
