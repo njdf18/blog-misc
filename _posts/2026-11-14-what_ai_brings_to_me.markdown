@@ -46,9 +46,10 @@ date: 2026-11-14 21:10:00 +0800
 <!-- outline-start -->
 
 Talking about how I use AI models and what they bring to my life.<br>
-This post is neither written nor entirely translated by any AI model.
 
 <!-- outline-end -->
+This post is neither written nor entirely translated by any AI model.
+
 When it comes to things like this, it really takes too much effort to write in my physical notebooks.
 I've decided to write about this topic on my blog someday, and now, I've finally made one!
 

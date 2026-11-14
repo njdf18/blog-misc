@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_20261115_1
-title: Living countryside in Taiwan is like living in a developing country
+lng_pair: id_20261117_1
+title: Living in the countryside in Taiwan is like living in a developing country
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -16,7 +16,7 @@ img: ":post_pic1.jpg"
 comments_disable: true
 
 # publish date
-date: 2026-11-12 21:10:00 +0800
+date: 2026-11-17 21:10:00 +0800
 
 # seo
 # if not specified, date will be used.
@@ -36,7 +36,7 @@ date: 2026-11-12 21:10:00 +0800
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-#published: false
+published: false
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
@@ -49,7 +49,11 @@ Why I want to move abroad.
 
 <!-- outline-end -->
 
-Just saw this short when I came up with the idea to write about the traffic situation in Taiwan. The best channel to know what a good city environment should be like!
+Just saw this short when I came up with the idea to write about the traffic situation in Taiwan.<br>
+The best channel to know what a good city environment should be like!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/azuAdRbqd60?si=dyPvSEEgPy_DXFHO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Seeing them on everywhere on the road (including sidewalk)
+
+- **What it is like living on Taipei (as a local)**
+- **What it is like living on the countryside**
