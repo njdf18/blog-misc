@@ -9,7 +9,7 @@ title: First Post Written by ME!
 # multiple category is not supported
 category: Life
 # multiple tag entries are possible
-tags: [example post]
+tags: []
 # thumbnail image for post
 img: ":post_pic1.jpg"
 # disable comments on this page
