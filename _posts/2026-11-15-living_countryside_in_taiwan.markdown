@@ -45,7 +45,7 @@ date: 2026-11-12 21:10:00 +0800
 
 <!-- outline-start -->
 
-Why I want to move out to Japan.
+Why I want to move abroad.
 
 <!-- outline-end -->
 

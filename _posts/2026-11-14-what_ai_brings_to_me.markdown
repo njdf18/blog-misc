@@ -90,7 +90,9 @@ AI models lower the barriers to white collar jobs, including programming. I actu
 However, some ignorant laypersons (such as vibe coders without any tech background) come and say "Oh I can make or do this with AI in just a few clicks."<br>
 We, people with a computer science background, spent 4 years (even more) learning about the structure of modern computers, algorithms, and system architectures etc. We know how to build a scalable, maintainable software while reducing bugs as much as we can. AI models wouldn't have their power today without this knowledge.<br>
 I sincerely hope people like this use AI to learn new things to broden their horizons. But humans are lazy so it's not gonna happen at any point (sigh).<br>
----
+
+***
+
 English Notes for myself: (Skip it if you're native.)
 - completely (most general) vs totally (casual) vs entirely (see things as a unit, slightly formal) vs fully (100% capacity)
 - put a rush on \[sth.\], rush through \[sth.\]
