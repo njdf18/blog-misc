@@ -36,7 +36,7 @@ date: 2026-11-17 21:10:00 +0800
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: true
+published: false
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
