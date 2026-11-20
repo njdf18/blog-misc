@@ -7,9 +7,9 @@ title: AI為我的生活帶來的一切
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: 生活
+category: Life
 # multiple tag entries are possible
-tags: [AI, 科技, 個人想法]
+tags: [AI, Tech, Personal Thoughts]
 # thumbnail image for post
 img: ":id_20261114_1-ai_computer_sousa_robot.png"
 # disable comments on this page
