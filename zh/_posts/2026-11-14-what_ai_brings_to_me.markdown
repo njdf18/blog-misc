@@ -36,7 +36,7 @@ date: 2026-11-14 21:10:00 +0800
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+published: true
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
@@ -48,57 +48,45 @@ published: false
 記錄一下我通常怎麼用生成式AI以及這些模型為我生活帶來的影響。<br>
 
 <!-- outline-end -->
-本貼文全程未使用任一生成式AI模型撰寫或是翻譯任何內容。全都是恁爸一個字一個字敲出來的。
+本貼文全程未使用任一生成式AI模型撰寫或是翻譯任何內容。全都是恁爸一個字一個字敲出來的。<br><br>
 
-每次想要書寫這種類型的貼文，都覺得寫手帳實在是太麻煩了。
-我一直想著某天
+每次想要書寫這種類型的貼文，都覺得寫手帳實在是太麻煩了。<br>
+我一直想著某天要架設自己的Blog，然後寫在上面。現在我終於架了一個！So why not?
 
-When it comes to things like this, it really takes too much effort to write in my physical notebooks.
-I've decided to write about this topic on my blog someday, and now, I've finally made one!
+### 我常使用AI的時機
+- **當我需要瞭解新的codebase時**<br>
+2021年之前，要瞭解一個新的library或是framework，我得去四處翻找官方文件或是程式碼去看裡面到底在做什麼。<br>
+現在直接用Ask Mode問GitHub Copilot就可以了。
 
-### Where they are useful to me
-- **When I need to explore a new codebase.**<br>
-Before 2021, I had to check the docs or read code directly to understand the  library I had just imported into my project.<br>
-I can use Ask Mode in GitHub Copilot and get immediate answers.<br>
+- **當我得趕程式作業時（喂）**<br>
+先別急著罵我，我知道這絕對不是個好主意🤣️。學生生涯中，總有幾次被各種作業報告追著跑又進度危急的狀況...我會先讓AI幫我完成作業，然後在考試前回頭理解當初它幫我寫了什麼。(畢竟AI可不能幫我考試)
 
-- **When I have to rush through my programming assignments.**<br>
-Okay, I know this is not good lol. But I'm not very good at time management, so...I let the model finish the assignment first, and then understand what it writes before the exam. (They can't finish the exam for me, apparently.)
+- **緊急需要在網路上查東西時**<br>
+G開頭的模型在G開頭的搜尋引擎硬塞的功能，緊急的時候很好用。只不過有時候會給出錯誤資訊😐️。
 
-- **Checking summaries from Google's model. (Don't want to put its real name here)**<br>
-Especially when I am in a hurry. But it gives false information sometimes😐️.<br>
+- **Brainstorming（腦力激盪）時**<br>
+我不是個很有創造力的人。我只是個無用的、只會當code monkey的資工系大學生（沒。<br>
+AI模型可以給我一些我從來沒想過的主意，好讓我能夠融合自己已經想到的想法進自己的專案。
 
-- **Brainstorming new ideas.**<br>
-I'm not very creative. I'm just a normal CS student who only know how to code (jk, ofc).
-These models can provide some ideas I would never have thought of. I can blend my existing ideas with the ones they provide to use in my projects.
+- **需要翻譯一些不重要的東西時.**<br>
+作為一個可以理解4種語言的人，能享受來自世界各地的娛樂內容真的是很棒很快樂，可是要分享給朋友的時候會有語言門檻，他們看不懂。現在只要我朋友抱怨，我可以丟下一句「先拿去問AI，除非它亂翻再拿來問我。」。
 
-- **When I need to translate something not important.**<br>
-As someone who speaks 4 languages, I can enjoy content from many countries, and it's great. However, there was a language barrier preventing me from sharing it with my friend. Now, it's not a problem anymore. If my friends complain that they don't understand, I would say, "Use AI  unless its translation doesn't make sense."
+### AI造成的一些個人情緒和反應（都是負面的）
+- **AI公司四處投放他們產品的廣告 (疲倦)**<br>
+其中一個我不想繼續用Youtube的原因，前陣子只要不開廣告攔截，就會一直看到Base44的廣告。（順帶一提，現在我在平板上都用Pipepipe。）<br>
+我認為這些公司非常努力地想要推廣自家產品，好增加產品的利潤以說服股東投入更多資金。結果就是他們在網路上四處任意投放沒頭沒尾的廣告，讓我完全不想用這些產品。
 
-### What emotions/reactions are triggered by them (Mostly negative)
-- **AI companies advertise their models everywhere. (Exhaustion or fatigue)**<br>
-This is one of the reasons why I've stopped using YouTube to watch videos anymore. (Btw, I use PipePipe on my tablet now.) <br>
-I guess those companies are trying super hard to make their services profitable and persuade their shareholders to pour more money into them, so they place the ads everywhere on the internet.<br>
-Thanks to their effort, I don't even want to use their products now.
+- **想著自己會不會被AI淘汰 (焦慮)**<br>
+自從2021年生成式AI0興盛發展之後，我變得十分焦慮。每天都在追著AI新功能跑，非常想知道有沒有新的技能或是技術是我本科生需要知道的。<br><br>
+這些行動都是被恐懼驅動著的。<br>
+萬一我的技能已經「過時」，沒辦法找到本科系的工作？<br>
+萬一我沒辦法有效率的利用AI，提昇自己的生產力？<br>
+萬一科技更新的速度變得快上加快，而我沒辦法跟上呢？<br><br>
+我希望自己能回到2020年之前，我想要再次被好奇心和內在動力驅使去學習新事物。<br>
+總之我就停止追著這些新聞跑，看到SNS上各種「我用了AI做了○○○！」也直接跳過。每過幾個月各種技能或技術就會大洗牌一次，我不如等到一切沈澱下來再來好好研究，這樣對我的心理狀態也比較好。
 
-- **Thinking about being replaced by them all the time. (Anxiety)**<br>
-After 2021 when AI models started to flourish, I became kind of anxious about what AI could do. I followed the latest news to know if there are new skills or technology I need to know or learn.<br><br>
-All (or most) of these were driven by fear. <br>
-What if I couldn't get a tech job because what I've learnt had become obsolete?<br>
-What if I couldn't be more productive because I didn't know how to use AI effectively?<br>
-What if people were moving faster and faster, and I couldn't keep up with them?<br><br>
-I wish I could go back to 2020. I want to learn out of curiosity and self-motivation again, not fear.<br>
-I stopped following the latest news a few months ago and tried to find my inner peace.
-
-- **Annoyed by laypersons. (Irritation)**<br>
-AI models lower the barriers to white collar jobs, including programming. I actually feel impressed seeing people using AI models to make apps that fully fits their needs.<br>
-However, some ignorant laypersons (such as vibe coders without any tech background) come and say "Oh I can make or do this with AI in just a few clicks."<br>
-We, people with a computer science background, spent 4 years (even more) learning about the structure of modern computers, algorithms, and system architectures etc. We know how to build a scalable, maintainable software while reducing bugs as much as we can. AI models wouldn't have their power today without this knowledge.<br>
-I sincerely hope people like this use AI to learn new things to broden their horizons. But humans are lazy so it's not gonna happen at any point (sigh).<br>
-
-***
-
-English Notes for myself: (Skip it if you're native.)
-- completely (most general) vs totally (casual) vs entirely (see things as a unit, slightly formal) vs fully (100% capacity)
-- put a rush on \[sth.\], rush through \[sth.\]
-- bloom (gradual growth) vs flourish (more active and dynamic growth)
-- lower the barriers to \[sth.\]
+- **被外行人惹毛 (煩躁)**<br>
+生成式AI降低了白領工作的門檻，這也包含寫程式這份工作（注意，跟軟體工程師這個職位是不同的）。我看到人們利用AI去製作完美符合他們使用情境的App而感到欣慰，心想他們終於能靠自己跟電腦解決一些以前要砸錢聘用工程師才能處理的小問題。<br>
+然而，有些*無知且自大的、沒有理科相關背景的*一些人會跑來說「這個我動動手指叫AI寫一下就搞定了。」<br>
+我們這些大學生拼死拼活在學校裡學習現代電腦架構、演算法、系統設計之類的，不是傻瓜好嗎？我們比你們更知道要怎麼控制開發、維護一個軟（硬）體。沒有這些知識，AI也不會有今天。<br>
+我誠摯的希望這種人利用AI去學習新的知識、開拓自身視野，停止講出這種彰顯自身無知的話語。可惜人類很懶，這種人恐怕也只會越來越多。最好是某天這些人的Code爛到一個程度，必須把我們聘來修好，到時候出價最好高一點。<br>
